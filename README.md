@@ -12,7 +12,7 @@ This project is a simple **E-Commerce Store backend** that implements full **CRU
 - ❌ Delete products from the catalog
 - 🔄 RESTful API design
 - 🗂️ Follows MVC architecture
-- 📦 Built using Node.js, Express & Sequelize
+- 📦 Built using Node.js, Express & MySQL
 
 ---
 
@@ -20,8 +20,6 @@ This project is a simple **E-Commerce Store backend** that implements full **CRU
 
 - **Backend**: Node.js + Express.js
 - **Database**: MySQL
-- **ORM**: Sequelize
-- **Environment Management**: dotenv
 
 ---
 
@@ -30,4 +28,4 @@ This project is a simple **E-Commerce Store backend** that implements full **CRU
 ### 1. Clone the Repository
 ```bash
 
-git clone (https://github.com/ammarhere02/E-Store.git)
+git clone https://github.com/ammarhere02/E-Store.git
